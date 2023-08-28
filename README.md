@@ -1,6 +1,6 @@
 # Adipurush Movie Sentiment Analysis
 
-![Project Banner]([project_banner.png](https://images.indianexpress.com/2022/10/Adipurush-1200.jpg)) <!-- Replace with an image related to your project -->
+![alt text](https://images.indianexpress.com/2022/10/Adipurush-1200.jpg )
 
 ## Overview
 
