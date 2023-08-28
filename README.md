@@ -41,7 +41,7 @@ The sentiment analysis results were visualized using various graphs and charts. 
 
 ### Examples of Visualizations
 
-![Sentiment Distribution](sentiment_distribution.png)
+![Sentiment Distribution](https://d33wubrfki0l68.cloudfront.net/ba2d83b3e2723f13a10edc19e960e326a0583507/33e51/static/012128fcf5034ecbcb628eefb722aa7f/b9224/sentiment-chewy.png)
 <!-- Add more visualization images here -->
 
 ## Setup
